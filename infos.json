@@ -1,0 +1,577 @@
+{
+  "groupe1": {
+    "titre": "CO-VTT MD Fontainebleau(77) 01/02",
+    "textes": [
+    ""      
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://drive.google.com/file/d/1mMkQDK2bTPpoeYuC4kfTBiFrRFJBsPFt/view?usp=sharing"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "https://balise77.com/site/wp-content/uploads/2026/02/resultat_VTT_Dimanche_weekendblo.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+
+  "groupe2": {
+    "titre": "MD Fontainebleau(77) 01/02",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://liveresultat.orientering.se/followfull.php?comp=35672&lang=fr"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "https://balise77.com/site/wp-content/uploads/2026/02/resultat_pedestre_Dimanche_weekendblo.html"
+      }
+    ],
+    "maj": ""
+  },
+
+  "groupe3": {
+    "titre": "MD départementale Montigny s/Loing(77) 08/02",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://drive.google.com/file/d/1QnVyllETVlKLypOU17R61ZWp7KCwg0fc/view?usp=sharing"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "https://drive.google.com/file/d/19L-1mYPUdHhqRNtw6H5Z63X3FuhHt3Hh/view?usp=sharing"
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+
+    "groupe4": {
+    "titre": "Chpt de Ligue MD Sully-la-Chapelle(45) 14/02",
+    "textes": [
+      "",
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://drive.google.com/file/d/1qEBnHx72l5kbHtrDW0C0E7bMq5WrKDvL/view?usp=sharing"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",        
+        "url": "https://drive.google.com/file/d/1E9cwWg37xaMWfcRyhJVOrkkhmtk3pJzu/view?usp=sharing"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+
+  "groupe5": {
+    "titre": "Sprint St-Jean-de-Braye(45) 14/02",
+    "textes": [
+      "" 
+    ],
+    "liens": [
+      {       
+        "texte": "Résultats",        
+        "url": "https://drive.google.com/file/d/1BqjypgsVAa5KSCxbuns_cGZg8vtcfo1z/view?usp=sharing"
+      },
+      {         
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://drive.google.com/file/d/15CDC_JnteXbUkM7kPj7scAM4sU_KqHDF/view?usp=sharing"
+      },      
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe6": {
+    "titre": "POM 2026 Sprint #1 Praia de Mira, Portugal 13/02",
+    "textes": [
+      "",
+      "",
+      ""     
+        ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://www.tictactiming.pt/eventos/2026/0213_POM_Sprint/1301/results_sprint.html"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "https://www.tictactiming.pt/eventos/2026/0213_POM_Sprint/1301/splits_sprint.html"
+      },      
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe7": {
+    "titre": "POM 2026 MD #2 Seixo, Portugal 14/02",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://www.tictactiming.pt/eventos/2026/0213_POM_Forest/1401/results_e1.html"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://www.tictactiming.pt/eventos/2026/0213_POM_Forest/1401/splits_e1.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe8": {
+    "titre": "POM 2026 LD #4 Seixo, Portugal 15/02",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://www.tictactiming.pt/eventos/2026/0213_POM_Forest/1401/results_e2.html"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://www.tictactiming.pt/eventos/2026/0213_POM_Forest/1401/splits_e2.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe9": {
+    "titre": "POM 2026 MD #5 Seixo, Portugal 16/02",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://www.tictactiming.pt/eventos/2026/0213_POM_Forest/1601/results_e3.html"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://tictactiming.pt/eventos/2026/0213_POM_Forest/1601/splits_e3.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe10": {
+    "titre": "POM 2026 Sprint nocturne #6 Mira, Portugal 16/02",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://tictactiming.pt/eventos/2026/0213_POM_Sprint/1601/results_night_sprint.html"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://tictactiming.pt/eventos/2026/0213_POM_Sprint/1601/Splits_night_sprint.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe11": {
+    "titre": "POM 2026 LD #7 Seixo, Portugal 17/02",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://tictactiming.pt/eventos/2026/0213_POM_Forest/1701/results_e4.html"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://tictactiming.pt/eventos/2026/0213_POM_Forest/1701/Splits_e4.html"
+      },
+      {
+        "texte": "Classement Général",
+        "url": "https://www.tictactiming.pt/eventos/2026/0213_POM_Forest/1701/global_1_2_3_4.html"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe12": {
+    "titre": "17ème Défi Chapelin co Score de nuit en éq. de 2 La Chapelle s/Oreuse(89) 28/02",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe13": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "19/10/2026 23:29"
+  },
+  "groupe14": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe15": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe16": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe17": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe18": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe19": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe20": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  }                            
+}
